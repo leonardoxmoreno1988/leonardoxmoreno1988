@@ -10,7 +10,7 @@ Based in Europe, operating globally.
 
 ---
 ### Featured Project: Patmos 🚀
-A functional full-stack RAG (Retrieval-Augmented Generation) system built to solve [problema que resuelve].
+A functional full-stack RAG (Retrieval-Augmented Generation) system built to solve bible queries.
 - **Design:** Component-driven UI built in Figma utilizing atomic design tokens.
 - **Code:** TypeScript architecture with a vector database (pgvector) in Supabase and OpenAI API.
 - [Live Demo 🌐](https://www.patmosresearch.com/) | [Repository 📦](https://github.com/leonardoxmoreno1988/sion)
