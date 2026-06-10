@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Leonardo Moreno 👋
+### Senior Product Designer & Design Engineer
 
-<!--
-**leonardoxmoreno1988/leonardoxmoreno1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bridging the gap between scalable design systems and full-stack implementation. 
+Based in Europe, operating globally.
 
-Here are some ideas to get you started:
+- 🛠️ **My Stack:** TypeScript, Next.js, Tailwind CSS, Shadcn/ui, Node.js, Supabase (PostgreSQL).
+- 🤖 **AI Focus:** Building RAG architectures, prompt engineering, and LLM orchestration.
+- 💼 **Background:** 8+ years architecting enterprise B2B SaaS, FinTech, and operational platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Featured Project: Patmos 🚀
+A functional full-stack RAG (Retrieval-Augmented Generation) system built to solve [problema que resuelve].
+- **Design:** Component-driven UI built in Figma utilizing atomic design tokens.
+- **Code:** TypeScript architecture with a vector database (pgvector) in Supabase and OpenAI API.
+- [Live Demo 🌐](TU_LINK_DE_VERCEL) | [Repository 📦](TU_LINK_DEL_REPO)
