@@ -1,5 +1,5 @@
 # Hola, soy Leonardo Moreno 👋
-### Senior Product Designer & UI Engineer
+### Senior Product Designer & Design Engineer
 
 Bridging the gap between scalable design systems and full-stack implementation. 
 Based in Europe, operating globally.
