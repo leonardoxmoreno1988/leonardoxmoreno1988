@@ -1,4 +1,4 @@
-# Hola, soy Leonardo Moreno 👋
+# Hi, I'm Leonardo Moreno 👋
 ### Senior Product Designer & Design Engineer
 
 Bridging the gap between scalable design systems and full-stack implementation. 
