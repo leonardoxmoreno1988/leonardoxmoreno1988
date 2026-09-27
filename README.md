@@ -4,9 +4,9 @@
 Bridging the gap between scalable design systems and full-stack implementation. 
 Based in Europe, operating globally.
 
-- 🛠️ **My Stack:** TypeScript, Next.js, Tailwind CSS, Shadcn/ui, Node.js, Supabase (PostgreSQL).
+- 🛠️ **My Stack:** TypeScript, Lovable, Next.js, Tailwind CSS, Shadcn/ui, Node.js, Supabase (PostgreSQL).
 - 🤖 **AI Focus:** Building RAG architectures, prompt engineering, and LLM orchestration.
-- 💼 **Background:** 8+ years architecting enterprise B2B SaaS, FinTech, and operational platforms.
+- 💼 **Background:** 8+ years designing for enterprise B2B SaaS, FinTech, and operational platforms.
 
 ---
 ### Featured Project: Patmos 🚀
