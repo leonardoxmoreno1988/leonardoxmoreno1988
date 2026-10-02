@@ -4,7 +4,7 @@
 Bridging the gap between scalable design systems and full-stack implementation. 
 Based in Europe, operating globally.
 
-- 🛠️ **My Stack:** TypeScript, Lovable, Next.js, Tailwind CSS, Shadcn/ui, Node.js, Supabase (PostgreSQL).
+- 🛠️ **My Stack:** TypeScript, Cursor, Lovable, Next.js, Tailwind CSS, Shadcn/ui, Node.js, Supabase (PostgreSQL).
 - 🤖 **AI Focus:** Building RAG architectures, prompt engineering, and LLM orchestration.
 - 💼 **Background:** 8+ years designing for enterprise B2B SaaS, FinTech, and operational platforms.
 
